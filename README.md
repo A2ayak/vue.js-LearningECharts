@@ -1,5 +1,9 @@
 # learning-echarts
 
+```
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+```
+
 ## 本项目主要记录echarts@4.9.0学习过程，注释比较详细，包含很多自定义样式以及思考，如果觉得有所帮助，可 :star: :star: :star: 支持，缓慢更新，欢迎加入更多个性化的样式。
 
 ### 目前已添加内容：
